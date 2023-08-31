@@ -1,0 +1,1 @@
+select * from EDW.DBO.DIM_MEMBER
